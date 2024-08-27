@@ -1,0 +1,28 @@
+POST http://localhost:3000/posts/
+content-type: application/json
+
+{
+    "postTitle": "dincertekin.com Hacked!",
+    "postImageURL": "unsplashimg",
+    "postDate": "Jun 3, 2024",
+    "postViews": "1581",
+    "postAuthor": "Dincer Tekin",
+    "postCategory": "Cybersecurity"
+}
+
+###
+
+GET http://localhost:3000/posts/
+
+###
+
+DELETE http://localhost:3000/posts/15
+
+###
+
+PATCH http://localhost:3000/posts/1
+Content-Type: application/json
+
+{
+    "postTitle": "Test."
+}
