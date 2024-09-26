@@ -35,7 +35,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/dtBlog.git
+   git clone https://github.com/dincertekin/dtBlog.git
    cd dtBlog/client
    ```
 
