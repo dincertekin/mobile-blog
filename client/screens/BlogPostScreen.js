@@ -64,7 +64,7 @@ export default function BlogPostScreen(props) {
 					borderRadius: 16,
 					marginLeft: 24,
 				}}
-				source={{ uri: post.postImageURL }} // Assuming your API returns an image URL
+				source={{ uri: post.postImageURL }}
 				/>
 				<View
 				style={{
