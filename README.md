@@ -10,10 +10,12 @@
 
 ## Screenshots
 
-<img src="https://i.imgur.com/oWW9CUN.png" alt="Screenshot" width="400">
-<img src="https://i.imgur.com/u00vNcM.png" alt="Screenshot" width="400">
+<div style="display: flex; justify-content: space-between;">
+   <img src="https://i.imgur.com/oWW9CUN.png" alt="Screenshot" width="400">
+   <img src="https://i.imgur.com/u00vNcM.png" alt="Screenshot" width="400">
+</div>
 
-## Technologies Used
+## Technologies
 
 ### Client-Side:
 - **React Native:** Framework for building native apps using React.
@@ -93,15 +95,15 @@
 1. Open the app on your mobile device (or emulator).
 2. Start creating, editing, and reading blog posts.
 
-## Contributing
+## Contributions
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under [MIT License](LICENSE).
 
-## Acknowledgments
+## Thanks
 
 - **Figma** for the UI design inspiration.
 - **Open-source libraries** and frameworks that made this project possible.
