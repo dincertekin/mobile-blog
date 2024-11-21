@@ -9,7 +9,7 @@ let db = new Database({
 	host: 'localhost',
 	user: 'root',
 	password: '',
-	database: 'dtblog'
+	database: 'mobileblog'
 });
 
 app.get('/posts/:id?', async(req, res) => {
