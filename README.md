@@ -1,6 +1,6 @@
 # mobile-blog
 
-It is a blog application built using **React Native** for the client-side and **Express.js** with **MySQL** for the server-side. The UI design was sourced from a design on Figma, and the entire application was developed from scratch.
+Mobile blog application built using **React Native** for the client-side and **Express.js** with **MySQL** for the server-side. The UI design was sourced from a design on Figma, and the entire application was developed from scratch.
 
 ## Features
 
