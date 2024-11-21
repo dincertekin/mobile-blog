@@ -1,6 +1,6 @@
-# dtBlog
+# mobile-blog
 
-**dtBlog** is a blog application built using **React Native** for the client-side and **Express.js** with **MySQL** for the server-side. The UI design was sourced from a design on Figma, and the entire application was developed from scratch.
+It is a blog application built using **React Native** for the client-side and **Express.js** with **MySQL** for the server-side. The UI design was sourced from a design on Figma, and the entire application was developed from scratch.
 
 ## Features
 
@@ -10,10 +10,9 @@
 
 ## Screenshots
 
-<div style="display: flex; justify-content: space-between;">
-   <img src="https://i.imgur.com/oWW9CUN.png" alt="Screenshot" width="400">
-   <img src="https://i.imgur.com/u00vNcM.png" alt="Screenshot" width="400">
-</div>
+| Home Screen                          | Post Details                         |
+|--------------------------------------|--------------------------------------|
+| ![Home Screen](screenshots/screenshot_1.png) | ![Post Details](screenshots/screenshot_2.png) |
 
 ## Technologies
 
@@ -37,8 +36,8 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dincertekin/dtBlog.git
-   cd dtBlog/client
+   git clone https://github.com/dincertekin/mobile-blog.git
+   cd mobile-blog/client
    ```
 
 2. Install dependencies:
@@ -62,7 +61,7 @@
 1. Navigate to the server directory:
 
    ```bash
-   cd dtBlog/server
+   cd mobile-blog/server
    ```
 
 2. Install dependencies:
